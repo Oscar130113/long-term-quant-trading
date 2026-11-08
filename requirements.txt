@@ -1,0 +1,8 @@
+akshare
+xgboost
+scikit-learn
+requests
+python-dotenv
+colorlog
+pandas
+numpy
